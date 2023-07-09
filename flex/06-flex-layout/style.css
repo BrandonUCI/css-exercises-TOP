@@ -16,6 +16,7 @@ img {
 .header, .footer {
   display: flex;
   justify-content: space-around;
+  padding: 0px 30px;
 }
 
 
@@ -29,14 +30,14 @@ img {
 
 .left-links {
   margin-right: auto;
-  margin-left: 0;
+  margin-left: -40px;
 }
 ul {
   list-style: none;
 }
 
 li {
-  margin: 10px;
+  margin: 15px;
 }
 a {
   text-decoration: none;
